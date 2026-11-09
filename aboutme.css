@@ -1,0 +1,28 @@
+h1{
+    color: #FFFFFF;
+    font-size: 36px;
+}
+
+body {
+  color: #FFFFFF;
+  font-family: Palatino, serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 40px;
+}
+
+*{
+    background-color: #1E1E1E;
+}
+
+img {
+  float: right;
+  margin: 0 0 20px 30px;
+}
+
+
+a,
+a:link,
+a:visited {
+  color: #ADD8E6;
+}
